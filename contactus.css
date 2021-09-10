@@ -1,0 +1,316 @@
+*{margin:0; padding: 0;}
+
+.container{
+	width:1349px;
+
+}
+
+
+header {
+    position: fixed;
+    background:white;
+}
+.logo img {
+
+height: 80px;
+width: 80px;
+
+}
+
+.homeText {
+    height: 50px;
+    width: 500px;
+    font-size: 15px;
+    margin-left: 70px;
+    margin-top: -45px;
+}
+
+	
+
+.mainmenu {
+    overflow: hidden;
+    width: 650px;
+    float: right;
+	margin-top:-45px;
+	
+}
+
+.mainmenu p {
+    float: left;
+font-size: 20px;
+margin-right: 15;
+color: green;
+}
+.mainmenu ul {
+    float: right;
+    display: inline-flex;
+}
+
+.mainmenu ul li{
+	overflow:hidden;
+	padding: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+	
+}
+.mainmenu ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #442727;
+  display: inline-table;
+}
+
+
+#contactus{
+
+background: url(contact_bg.png);
+
+height: 250px;
+
+background-repeat: no-repeat;
+}
+
+.conText {
+    border: 2px solid gray;
+}
+
+.conH1 {
+    background: #102f63;
+    color: white;
+    font-size: 40px;
+    font-family: monospace;
+    float: left;
+    width: 1347px;
+}
+
+
+tbody {
+    border: 1px solid green;
+    width: 1140px;
+}
+td {font-size: 25px;}
+
+table {
+    width: 1240px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+th {
+    font-size: 25px;
+}
+
+
+
+
+
+*{margin:0; padding: 0;}
+
+.container{
+	width:1349px;
+
+}
+
+
+header {
+    position: fixed;
+    background: white;
+}
+.logo img {
+
+height: 70px;
+
+width: 70px;
+}
+
+.homeText {
+    width: 500px;
+    font-size: 15px;
+    margin-left: 70px;
+    margin-top: -45px;
+}
+
+	
+
+.mainmenu {
+    overflow: hidden;
+    width: 650px;
+    float: right;
+	margin-top:-45px;
+	
+}
+
+.mainmenu p {
+    float: left;
+font-size: 20px;
+margin-right: 15;
+color: green;
+}
+.mainmenu ul {
+    float: right;
+    display: inline-flex;
+}
+
+.mainmenu ul li{
+	overflow:hidden;
+	padding: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+	
+}
+.mainmenu ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #442727;
+  display: inline-table;
+}
+
+
+#contactus{
+
+background: url(contact_bg.png);
+
+height: 250px;
+
+background-repeat: no-repeat;
+}
+
+.conH1 {
+    background: #102f63;
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    float: left;
+    width: 1347px;
+}
+
+
+tbody {
+    border: 1px solid green;
+    width: 1140px;
+}
+td {font-size: 25px;}
+
+table {
+    width: 1240px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+th {
+    font-size: 25px;
+}
+
+.mainnhfgkng {
+    display: inline-flex;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.nhfgkng1 {
+    font-size: 18px;
+    width: 600px;
+    margin-left: 55px;
+    border: 1px solid gray;
+    padding: 10px;
+    text-transform: capitalize;
+}
+
+.nhfgkng2 {
+    width: 350px;
+    border: 1px solid gray;
+    font-size: 16px;
+}
+
+.nhfgkng1 {}
+
+.nhfgkng3 {
+    border: 1px solid gray;
+    font-size: 18px;
+}
+.nhfgkng21 {
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+
+.nhfgkng22 {
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+
+.nhfgkng23 {padding: 10px;}
+
+.nhfgkng31 {
+    border-bottom: 1px solid gray;
+    padding: 9px;
+}
+
+.nhfgkng32 {
+    border-bottom: 1px solid gray;
+    width: 250px;
+    padding: 9px;
+}
+
+
+
+
+.bgfjksf {
+    display: inline-flex;
+    text-transform: capitalize;
+}
+
+.bgfjksf1 {
+    width: 600px;
+    margin-left: 55px;
+    border: 1px solid gray;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.bgfjksf2 {
+    font-size: 16px;
+    width: 600px;
+    float: right;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+
+
+
+
+.rngjrei {
+    display: inline-flex;
+    text-transform: capitalize;
+}
+
+.rngjrei1 {
+    width: 600px;
+    margin-left: 55px;
+    padding: 10px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+
+.rngjrei2 {
+    font-size: 18px;
+    width: 330px;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.rngjrei3 {
+    border: 1px solid gray;
+    width: 248px;
+    font-size: 18px;
+    padding: 10px;
+    text-transform: none;
+}
+
+.rngjrei3 p {
+    font-size: 10px;
+}
+
+.nhfgkng33 {
+    padding: 9px;
+}
